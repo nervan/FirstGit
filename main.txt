@@ -1,1 +1,2 @@
 git 처음 시작하기
+gitHub clone에서 추가함.
