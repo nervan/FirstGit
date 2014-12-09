@@ -1,3 +1,6 @@
 git 처음 시작하기
 gitHub에서 추가한 내용임. 
 gitHub clone에서 추가함.
+
+// 새로운 view.txt를 생성했다. 
+// feature 브랜치명은 feature-addView
