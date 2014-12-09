@@ -4,3 +4,6 @@ gitHub clone에서 추가함.
 
 // 새로운 view.txt를 생성했다. 
 // feature 브랜치명은 feature-addView
+
+
+developer 브랜치에서 main.txt를 수정했음.
